@@ -14,6 +14,9 @@ Click the "Highlight" button to apply a highlight effect on the matching element
 
 You can paste any valid CSS selector in the input field of the Element Highlighter Chrome Extension to highlight the matching elements on the web page. Some examples of CSS selectors are:
 
+<img width="1269" alt="Screenshot 2023-03-20 at 10 56 54 PM" src="https://user-images.githubusercontent.com/3944962/226531102-6440b24a-9acf-4ad6-aee9-f35c716d8bb8.png">
+
+
 Element selector: `p` - This will highlight all paragraph elements on the page.
 Class selector: `.example-class` - This will highlight all elements with the example-class class.
 ID selector: `#example-id` - This will highlight the element with the ID example-id.
